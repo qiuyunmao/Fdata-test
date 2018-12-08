@@ -4,7 +4,9 @@
 #include <cstdlib>
 #include <string.h>
 using namespace std;
-
+/*
+test for push to orgin repository need to input username and possword
+*/
 
 void strCpy(char *from, char *to)
 {
